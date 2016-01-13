@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2493564521
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e17f4e0922f16759ea8664aeb22745c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5f43978fe885eac572c1d6ab1189453a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+Assets:
+- Assets/ARItems/Court/tmpAssetBuildDirectory/ARItem_Court.prefab
+Dependencies: []
