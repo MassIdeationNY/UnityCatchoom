@@ -1,0 +1,40 @@
+0000-0080 loop Idle
+0082-0105 Start Idle Standing
+0106-0153 loop Idle Standing
+0154-0177 End Idle Standing
+0179-0213 Lie Down
+0215-0261 loop Sleeping      
+0262-0298 Wake Up
+0300-0399 loop Rest
+0401-0480 loop Eating
+0482-0561 loop Fight Idle
+0563-0583 loop Jumping                     
+0585-0616 loop Swimming 
+0618-0635 loop Run
+0637-0664 loop Attack Paw R
+0666-0729 loop Attack
+0731-0803 loop Attack With Ripping
+0805-0819 loop Hit Left
+0820-0834 loop Hit Right
+0835-0849 loop Hit Front
+0850-0864 loop Hit Back
+0866-0905 Death
+0907-0932 loop Walk
+0934-0978 loop Walk Slow
+0980-1005 loop Walk Back
+1007-1032 loop Walk Smell
+1034-1129 loop Smell     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
