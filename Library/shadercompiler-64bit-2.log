@@ -1,42 +1,6 @@
-Base path: C:/Program Files/Unity5.0.1/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-2-6760
+Base path: E:/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-2-7688
 Cmd: getPlatforms
-Cmd: compileSnippet
-  api=9 type=0 insize=990 outsize=3993 kw= ok=1
-Cmd: compileSnippet
-  api=5 type=1 insize=7257 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=5 type=0 insize=4694 outsize=3682 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=9 type=0 insize=4694 outsize=12243 kw=POINT_COOKIE ok=1
-Cmd: compileSnippet
-  api=9 type=0 insize=4694 outsize=11704 kw=DIRECTIONAL_COOKIE ok=1
-Cmd: compileSnippet
-  api=5 type=1 insize=4694 outsize=6 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=5 type=1 insize=4694 outsize=6 kw=POINT_COOKIE ok=1
-Cmd: compileSnippet
-  api=9 type=0 insize=3899 outsize=7592 kw= ok=1
-Cmd: compileSnippet
-  api=9 type=0 insize=6267 outsize=10716 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=9 type=1 insize=6267 outsize=7 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF UNITY_HDR_ON ok=1
-Cmd: compileSnippet
-  api=14 type=0 insize=7257 outsize=5806 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
-Cmd: compileSnippet
-  api=14 type=1 insize=7257 outsize=2653 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=14 type=0 insize=4694 outsize=2924 kw=POINT_COOKIE ok=1
-Cmd: compileSnippet
-  api=14 type=1 insize=4694 outsize=1692 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=14 type=1 insize=4694 outsize=2150 kw=DIRECTIONAL_COOKIE ok=1
-Cmd: compileSnippet
-  api=14 type=1 insize=3899 outsize=1168 kw= ok=1
-Cmd: compileSnippet
-  api=14 type=1 insize=6267 outsize=1300 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=9 type=1 insize=959 outsize=7 kw= ok=1
 Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
 
 
