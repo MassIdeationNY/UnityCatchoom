@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2496193173
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 665c4cc2a9611ee0f542cdb1e7137cae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 62e200f110205e2c34c0daf447abe8f4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb521e9ace49d8546a83f420a0debd12, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/ARItems/A_creed/tmpAssetBuildDirectory/ARItem_A_creed.prefab
+Dependencies: []
