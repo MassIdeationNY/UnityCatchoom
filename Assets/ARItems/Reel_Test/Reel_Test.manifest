@@ -1,6 +1,0 @@
-ManifestFileVersion: 0
-AssetBundleManifest:
-  AssetBundleInfos:
-    Info_0:
-      Name: reel_test_bundle_ios
-      Dependencies: {}
